@@ -72,3 +72,7 @@ Different types of buttons could be used:
 
 Todo
 
+## Latches
+
+Todo
+
