@@ -2,14 +2,12 @@
 
 opensource underwater housing platform
 
-![3D printed boat generated with bpyhullgen](images/h1.png)
+![front](images/h1.png)
 
-![3D printed boat generated with bpyhullgen](images/h2.png)
+![rear](images/h2.png)
 
 ## Design goal
 The goal of this project is to create an opensource camera housing for higher end cameras that is more reusable than off the shelf custom camera housings designed for a specific camera. 
-
-
 
 ## Dimensions of common cameras
 
